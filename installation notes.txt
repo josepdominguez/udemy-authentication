@@ -1,0 +1,14 @@
+==== Installation notes for Project Course Recipe Book Udemy  =====
+1. Navigate to installation folder
+
+2. Open command line application (GIT, CMD, etc)
+
+3. Make sure you have "npm" installed
+
+4. Type "npm install": Running this task will install all the dependencies specified in package.json (Angular, and its dependencies). The file also specifies the correct version for each dependency in order to make the project work. For example, this project requires Angular2.
+
+5. Type "ng build": Some webpack dark stuff. Feel free to update this explanation.
+
+6. Type "ng serve": Serves the application by creating a local server.
+
+7. Visit "http://localhost:4200" in your browser
